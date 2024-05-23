@@ -1,20 +1,12 @@
-[
 {
-  "name": "samaysager" 
-},  
-{
-  "name": "yogsager" 
-} ,
-{
-  "name": "sudhasager" 
-}, 
-{
-  "name": "veersager" 
-},
-{
-  "name": "vinamrasager" 
-}, 
-{
-  "name": "sambhavsager" 
-}, 
-]
+  "maharajji": [
+    {
+      "name": "Aacharya shri samay sager ji maharaj",
+      "image": "https://github.com/Sakshamjain06/MaharajList/blob/main/1.png"
+    },
+    {
+      "name": "muni shri yog sager ji maharaj",
+      "image": "https://github.com/Sakshamjain06/MaharajList/blob/main/2.png"
+    }
+  ]
+}
